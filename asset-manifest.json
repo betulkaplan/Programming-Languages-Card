@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Programming-Languages-Card/static/css/main.c1dcce2c.chunk.css",
+    "main.js": "/Programming-Languages-Card/static/js/main.3c7a5ef8.chunk.js",
+    "main.js.map": "/Programming-Languages-Card/static/js/main.3c7a5ef8.chunk.js.map",
+    "runtime-main.js": "/Programming-Languages-Card/static/js/runtime-main.8f5f1c7b.js",
+    "runtime-main.js.map": "/Programming-Languages-Card/static/js/runtime-main.8f5f1c7b.js.map",
+    "static/js/2.9310a3a1.chunk.js": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js",
+    "static/js/2.9310a3a1.chunk.js.map": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js.map",
+    "static/js/3.49c416f9.chunk.js": "/Programming-Languages-Card/static/js/3.49c416f9.chunk.js",
+    "static/js/3.49c416f9.chunk.js.map": "/Programming-Languages-Card/static/js/3.49c416f9.chunk.js.map",
+    "index.html": "/Programming-Languages-Card/index.html",
+    "static/css/main.c1dcce2c.chunk.css.map": "/Programming-Languages-Card/static/css/main.c1dcce2c.chunk.css.map",
+    "static/js/2.9310a3a1.chunk.js.LICENSE.txt": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Programming-Languages-Card/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f5f1c7b.js",
+    "static/js/2.9310a3a1.chunk.js",
+    "static/css/main.c1dcce2c.chunk.css",
+    "static/js/main.3c7a5ef8.chunk.js"
+  ]
+}
