@@ -1,11 +1,23 @@
 import React from 'react';
+import React_top from './images/react_top.svg';
 import Langs from './langs';
 import { lang_data } from './lang_data';
 
 export default function Main() {
-  const arr = lang_data.map((item) => <Langs name={item.name} />);
+  const arr = lang_data.map((item) => (
+    <Langs
+      name={item.name}
+      logo={item.logo}
+      desc={item.desc}
+      date={item.date}
+      author={item.author}
+    />
+  ));
   return (
     <div className="main">
+      <div className="header">
+        <img className="top_img" src={React_top} alt="" />
+      </div>
       <div className="card">
         <div className="ribbon"></div>
         <div className="box">
