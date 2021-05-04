@@ -5,13 +5,7 @@ import { lang_data } from './lang_data';
 
 export default function Main() {
   const arr = lang_data.map((item) => (
-    <Langs
-      name={item.name}
-      logo={item.logo}
-      desc={item.desc}
-      date={item.date}
-      author={item.author}
-    />
+    <Langs name={item.name} logo={item.img} options={item.options} />
   ));
   return (
     <div className="main">

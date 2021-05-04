@@ -9,65 +9,42 @@ import phpLogo from './images/php.svg';
 export const lang_data = [
   {
     name: 'javascript',
-    logo: jsLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: jsLogo,
+    options: ['Website Development', '1995', 'Brendan Eich'],
   },
-
   {
     name: 'html',
-    logo: htmlLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: htmlLogo,
+    options: ['Website Development', '1993', 'Tim Berners-Lee'],
   },
-
   {
     name: 'css',
-    logo: cssLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: cssLogo,
+    options: ['Website Design', '1994', 'Håkon Wium Lie'],
   },
-
   {
     name: 'python',
-    logo: pyLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: pyLogo,
+    options: ['AI', '1980', 'Guido van Rossum'],
   },
-
   {
     name: 'java',
-    logo: javaLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: javaLogo,
+    options: ['BackEnd', '1990s', 'Sun Microsystems'],
   },
-
   {
     name: 'c++',
-    logo: cppLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: cppLogo,
+    options: ['Game Dev.', '1980s', 'Bjarne Stroustrup'],
   },
-
   {
     name: 'go',
-    logo: goLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: goLogo,
+    options: ['Network', '2009', 'Robert Griesemer'],
   },
-
   {
     name: 'php',
-    logo: phpLogo,
-    desc: 'Website Development',
-    date: '1995',
-    author: 'john doe',
+    img: phpLogo,
+    options: ['BackEnd', '1995', '	Rasmus Lerdorf'],
   },
 ];

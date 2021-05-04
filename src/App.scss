@@ -102,6 +102,7 @@
 }
 
 .langs {
+  position: relative;
   display: flex;
   flex-direction: column;
   font-family: 'Work Sans', sans-serif;
@@ -138,8 +139,15 @@
   }
 
   .logo {
+    position: absolute;
+    top: 10px;
     width: 30%;
     display: block;
     transition: all 0.5s ease;
+  }
+
+  .desc {
+    position: absolute;
+    bottom: 10px;
   }
 }

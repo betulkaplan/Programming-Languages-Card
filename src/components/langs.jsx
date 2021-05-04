@@ -25,15 +25,15 @@ export default function Langs(props) {
       >
         {!flip ? (
           <>
-            <img className={'logo'} src={props.logo} alt="" />
-            <div>{props.name}</div>
+            <img className="logo" src={props.logo} alt="" />
+            <div className="desc">{props.name}</div>
           </>
         ) : (
           <>
             <ul className="back">
-              <li>{props.desc}</li>
-              <li>{props.date}</li>
-              <li>{props.author}</li>
+              <li>{props.options[0]}</li>
+              <li>{props.options[1]}</li>
+              <li>{props.options[2]}</li>
             </ul>
           </>
         )}
