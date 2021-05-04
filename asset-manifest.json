@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/Programming-Languages-Card/static/css/main.c1dcce2c.chunk.css",
-    "main.js": "/Programming-Languages-Card/static/js/main.3c7a5ef8.chunk.js",
-    "main.js.map": "/Programming-Languages-Card/static/js/main.3c7a5ef8.chunk.js.map",
-    "runtime-main.js": "/Programming-Languages-Card/static/js/runtime-main.8f5f1c7b.js",
-    "runtime-main.js.map": "/Programming-Languages-Card/static/js/runtime-main.8f5f1c7b.js.map",
-    "static/js/2.9310a3a1.chunk.js": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js",
-    "static/js/2.9310a3a1.chunk.js.map": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js.map",
-    "static/js/3.49c416f9.chunk.js": "/Programming-Languages-Card/static/js/3.49c416f9.chunk.js",
-    "static/js/3.49c416f9.chunk.js.map": "/Programming-Languages-Card/static/js/3.49c416f9.chunk.js.map",
+    "main.css": "/Programming-Languages-Card/static/css/main.bbdea54f.chunk.css",
+    "main.js": "/Programming-Languages-Card/static/js/main.18496159.chunk.js",
+    "main.js.map": "/Programming-Languages-Card/static/js/main.18496159.chunk.js.map",
+    "runtime-main.js": "/Programming-Languages-Card/static/js/runtime-main.85400992.js",
+    "runtime-main.js.map": "/Programming-Languages-Card/static/js/runtime-main.85400992.js.map",
+    "static/js/2.8fb38531.chunk.js": "/Programming-Languages-Card/static/js/2.8fb38531.chunk.js",
+    "static/js/2.8fb38531.chunk.js.map": "/Programming-Languages-Card/static/js/2.8fb38531.chunk.js.map",
+    "static/js/3.8f4faf38.chunk.js": "/Programming-Languages-Card/static/js/3.8f4faf38.chunk.js",
+    "static/js/3.8f4faf38.chunk.js.map": "/Programming-Languages-Card/static/js/3.8f4faf38.chunk.js.map",
     "index.html": "/Programming-Languages-Card/index.html",
-    "static/css/main.c1dcce2c.chunk.css.map": "/Programming-Languages-Card/static/css/main.c1dcce2c.chunk.css.map",
-    "static/js/2.9310a3a1.chunk.js.LICENSE.txt": "/Programming-Languages-Card/static/js/2.9310a3a1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Programming-Languages-Card/static/media/logo.6ce24c58.svg"
+    "static/css/main.bbdea54f.chunk.css.map": "/Programming-Languages-Card/static/css/main.bbdea54f.chunk.css.map",
+    "static/js/2.8fb38531.chunk.js.LICENSE.txt": "/Programming-Languages-Card/static/js/2.8fb38531.chunk.js.LICENSE.txt",
+    "static/media/cpp.c4a42e13.svg": "/Programming-Languages-Card/static/media/cpp.c4a42e13.svg",
+    "static/media/css.4faee89d.svg": "/Programming-Languages-Card/static/media/css.4faee89d.svg",
+    "static/media/go.6316b9da.svg": "/Programming-Languages-Card/static/media/go.6316b9da.svg",
+    "static/media/html.bfe202ac.svg": "/Programming-Languages-Card/static/media/html.bfe202ac.svg",
+    "static/media/java.b4a0adbd.svg": "/Programming-Languages-Card/static/media/java.b4a0adbd.svg",
+    "static/media/js.00f3e5cf.svg": "/Programming-Languages-Card/static/media/js.00f3e5cf.svg",
+    "static/media/logo.6ce24c58.svg": "/Programming-Languages-Card/static/media/logo.6ce24c58.svg",
+    "static/media/php.ba7be017.svg": "/Programming-Languages-Card/static/media/php.ba7be017.svg",
+    "static/media/python.e6d7dc73.svg": "/Programming-Languages-Card/static/media/python.e6d7dc73.svg",
+    "static/media/react_top.7b78f5c3.svg": "/Programming-Languages-Card/static/media/react_top.7b78f5c3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f5f1c7b.js",
-    "static/js/2.9310a3a1.chunk.js",
-    "static/css/main.c1dcce2c.chunk.css",
-    "static/js/main.3c7a5ef8.chunk.js"
+    "static/js/runtime-main.85400992.js",
+    "static/js/2.8fb38531.chunk.js",
+    "static/css/main.bbdea54f.chunk.css",
+    "static/js/main.18496159.chunk.js"
   ]
 }
