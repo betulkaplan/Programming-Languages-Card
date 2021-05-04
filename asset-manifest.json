@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Programming-Languages-Card/static/css/main.bbdea54f.chunk.css",
+    "main.css": "/Programming-Languages-Card/static/css/main.4f51d510.chunk.css",
     "main.js": "/Programming-Languages-Card/static/js/main.18496159.chunk.js",
     "main.js.map": "/Programming-Languages-Card/static/js/main.18496159.chunk.js.map",
     "runtime-main.js": "/Programming-Languages-Card/static/js/runtime-main.85400992.js",
@@ -10,7 +10,7 @@
     "static/js/3.8f4faf38.chunk.js": "/Programming-Languages-Card/static/js/3.8f4faf38.chunk.js",
     "static/js/3.8f4faf38.chunk.js.map": "/Programming-Languages-Card/static/js/3.8f4faf38.chunk.js.map",
     "index.html": "/Programming-Languages-Card/index.html",
-    "static/css/main.bbdea54f.chunk.css.map": "/Programming-Languages-Card/static/css/main.bbdea54f.chunk.css.map",
+    "static/css/main.4f51d510.chunk.css.map": "/Programming-Languages-Card/static/css/main.4f51d510.chunk.css.map",
     "static/js/2.8fb38531.chunk.js.LICENSE.txt": "/Programming-Languages-Card/static/js/2.8fb38531.chunk.js.LICENSE.txt",
     "static/media/cpp.c4a42e13.svg": "/Programming-Languages-Card/static/media/cpp.c4a42e13.svg",
     "static/media/css.4faee89d.svg": "/Programming-Languages-Card/static/media/css.4faee89d.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.85400992.js",
     "static/js/2.8fb38531.chunk.js",
-    "static/css/main.bbdea54f.chunk.css",
+    "static/css/main.4f51d510.chunk.css",
     "static/js/main.18496159.chunk.js"
   ]
 }
